@@ -5,6 +5,7 @@
 This project is a comprehensive **Restaurant Sales Analysis Dashboard** built using Microsoft Excel. The goal of this dashboard is to provide restaurant owners, managers, and decision-makers with actionable insights into their sales data, helping them optimize performance, enhance customer satisfaction, and drive business growth.
 
 By leveraging advanced Excel features such as **pivot tables**, **graphs**, **slicers**, and **automated calculations**, this project turns raw sales data into meaningful insights that can be easily interpreted and acted upon.
+![image](https://github.com/user-attachments/assets/5e2be7a3-f96a-40a8-9cff-40cf4c62a884)
 
 ## **Key Features**
 
